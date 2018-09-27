@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "891141559304",
-    "firebase_url": "https://fir-storage-c07cd.firebaseio.com",
-    "project_id": "fir-storage-c07cd",
-    "storage_bucket": "fir-storage-c07cd.appspot.com"
+    "project_number": "725270707187",
+    "firebase_url": "https://realtimedatabase-97ff1.firebaseio.com",
+    "project_id": "realtimedatabase-97ff1",
+    "storage_bucket": "realtimedatabase-97ff1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:891141559304:android:d842af33038fad5c",
+        "mobilesdk_app_id": "1:725270707187:android:d842af33038fad5c",
         "android_client_info": {
           "package_name": "info.androidhive.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "891141559304-gumjkd1p98l3t9nl8p8oikv078mrf0t9.apps.googleusercontent.com",
+          "client_id": "725270707187-sd3kefarlh1jqo2klv88ufclgm4gdf3d.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDpiktsq6Y56OFnbJmBbMXye299yGvb0Vk"
+          "current_key": "AIzaSyAhbEsyw7LYTkHhOGPnWcAJkXv2UKK1XJY"
         }
       ],
       "services": {
